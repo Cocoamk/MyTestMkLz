@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-test1
-=======
->>>>>>> 954e5b86a44db22013cea1a3f22f1e07f2d048fd
+
 never mind.
+test1
